@@ -1,4 +1,4 @@
-# foreign-exchange-currency-2021
+# foreign-exchange-currency
 
 Run `docker build -t sample:dev  .`
 
